@@ -3,9 +3,9 @@ Centos 7 docker with systemd enabled
 
 This docker is based on centos 7's official docker with systemd
 
-### Pull image:
+### Get the image:
 
-docker pull etates/centos7-systemd:latest
+docker push etates/centos7-systemd:latest
 
 
 ### Run container:
