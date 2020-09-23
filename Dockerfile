@@ -1,5 +1,5 @@
 FROM centos:7
-LABEL maintainer="Eliécer Tatés eliecer.tates@gmail.com"
+LABEL maintainer="Eliécer Tatés M."
 #Enable systemd
 ENV container docker
 RUN (cd /lib/systemd/system/sysinit.target.wants/; for i in *; do [ $i == \
